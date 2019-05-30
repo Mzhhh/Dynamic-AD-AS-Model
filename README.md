@@ -4,4 +4,4 @@ This repository contains the MATLAB code of an implementation of the dynamic AD-
 
 Here are some descriptions of certain scripts:
 1. `simulation.m`: solve the equation governing the macro economy to obtain solutions to inflation, output and interest rates
-2. `plot_deviation.m`: illustrate the effect of various monetary policies, by measuring the maximum absolute deviation of inflation and output
+2. `plot_deviation.m`: visualize the effect of various monetary policies, by measuring the maximum absolute deviation of inflation and output
